@@ -1,0 +1,51 @@
+{
+    "test1": [
+        "https://www.whitehouse.gov",
+        "https://www.whitehouse.gov",
+        "https://www.whitehouse.gov",
+        "https://www.whitehouse.gov",
+        "https://www.fiscal.treasury.gov",
+        "https://www.cbpp.org",
+        "https://home.treasury.gov",
+        "https://about.bgov.com",
+        "https://www.thebalancemoney.com",
+        "https://www.govinfo.gov"
+    ],
+    "test2": [
+        "https://www.whitehouse.gov",
+        "https://www.whitehouse.gov",
+        "https://www.whitehouse.gov",
+        "https://www.whitehouse.gov",
+        "https://www.fiscal.treasury.gov",
+        "https://www.cbpp.org",
+        "https://home.treasury.gov",
+        "https://about.bgov.com",
+        "https://www.thebalancemoney.com",
+        "https://www.govinfo.gov"
+    ],
+    "control1": [
+        "https://www.whitehouse.gov",
+        "https://www.whitehouse.gov",
+        "https://www.whitehouse.gov",
+        "https://www.whitehouse.gov",
+        "https://www.fiscal.treasury.gov",
+        "https://www.cbpp.org",
+        "https://home.treasury.gov",
+        "https://about.bgov.com",
+        "https://www.thebalancemoney.com",
+        "https://www.govinfo.gov"
+    ],
+    "control2": [
+        "https://www.whitehouse.gov",
+        "https://www.whitehouse.gov",
+        "https://www.whitehouse.gov",
+        "https://www.whitehouse.gov",
+        "https://www.fiscal.treasury.gov",
+        "https://www.cbpp.org",
+        "https://home.treasury.gov",
+        "https://about.bgov.com",
+        "https://www.thebalancemoney.com",
+        "https://www.govinfo.gov"
+    ]
+}
+

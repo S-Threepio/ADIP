@@ -1,0 +1,27 @@
+{
+  "test": [
+    "https://www.forbes.com",
+    "https://www.politifact.com",
+    "https://www.usatoday.com",
+    "https://www.usatoday.com",
+    "https://www.basf.com",
+    "https://zrsmarketplace.zurich.com",
+    "https://www.pewresearch.org",
+    "https://www.wwf.org.uk",
+    "https://www.nationalgeographic.com",
+    "https://www.forbes.com"
+  ],
+  "control": [
+    "https://www.forbes.com",
+    "https://www.politifact.com",
+    "https://www.usatoday.com",
+    "https://www.usatoday.com",
+    "https://www.basf.com",
+    "https://zrsmarketplace.zurich.com",
+    "https://www.wwf.org.uk",
+    "https://www.nationalgeographic.com",
+    "https://www.forbes.com",
+    "https://www.pewresearch.org"
+  ]
+}
+

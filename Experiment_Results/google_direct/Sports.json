@@ -1,0 +1,51 @@
+{
+  "test1": [
+    "https://www.aljazeera.com",
+    "https://time.com",
+    "https://www.outlookindia.com",
+    "https://www.marca.com",
+    "https://www.espn.com",
+    "https://theforkball.com",
+    "https://www.biography.com",
+    "https://www.linkedin.com",
+    "https://www.thejustice.org",
+    "https://www.unicef.org"
+  ],
+  "test2": [
+    "https://www.aljazeera.com",
+    "https://time.com",
+    "https://www.outlookindia.com",
+    "https://www.marca.com",
+    "https://www.espn.com",
+    "https://theforkball.com",
+    "https://www.biography.com",
+    "https://www.linkedin.com",
+    "https://www.thejustice.org",
+    "https://www.unicef.org"
+  ],
+  "control1": [
+    "https://www.aljazeera.com",
+    "https://time.com",
+    "https://www.outlookindia.com",
+    "https://www.marca.com",
+    "https://www.espn.com",
+    "https://theforkball.com",
+    "https://www.biography.com",
+    "https://www.linkedin.com",
+    "https://www.thejustice.org",
+    "https://www.unicef.org"
+  ],
+  "control2": [
+    "https://www.aljazeera.com",
+    "https://time.com",
+    "https://www.outlookindia.com",
+    "https://www.marca.com",
+    "https://www.espn.com",
+    "https://theforkball.com",
+    "https://www.biography.com",
+    "https://www.linkedin.com",
+    "https://www.thejustice.org",
+    "https://www.unicef.org"
+  ]
+}
+

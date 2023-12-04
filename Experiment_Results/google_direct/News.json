@@ -1,0 +1,51 @@
+{
+  "test1": [
+    "https://csglobalpartners.com",
+    "https://www.learnliberty.org",
+    "https://www.cato.org",
+    "https://www.economist.com",
+    "https://www.oecd.org",
+    "https://budgetmodel.wharton.upenn.edu",
+    "https://www.linkedin.com",
+    "https://www.jstor.org",
+    "https://ir.lib.uwo.ca",
+    "https://www.mfa.gov.tr"
+  ],
+  "test2": [
+    "https://csglobalpartners.com",
+    "https://www.learnliberty.org",
+    "https://www.cato.org",
+    "https://www.economist.com",
+    "https://www.oecd.org",
+    "https://budgetmodel.wharton.upenn.edu",
+    "https://www.linkedin.com",
+    "https://ir.lib.uwo.ca",
+    "https://www.jstor.org",
+    "https://www.mfa.gov.tr"
+  ],
+  "control1": [
+    "https://csglobalpartners.com",
+    "https://www.learnliberty.org",
+    "https://www.cato.org",
+    "https://www.economist.com",
+    "https://www.oecd.org",
+    "https://budgetmodel.wharton.upenn.edu",
+    "https://www.linkedin.com",
+    "https://www.jstor.org",
+    "https://www.mfa.gov.tr",
+    "https://www.oecd-ilibrary.org"
+  ],
+  "control2": [
+    "https://csglobalpartners.com",
+    "https://www.learnliberty.org",
+    "https://www.cato.org",
+    "https://www.economist.com",
+    "https://www.oecd.org",
+    "https://budgetmodel.wharton.upenn.edu",
+    "https://www.linkedin.com",
+    "https://www.jstor.org",
+    "https://www.mfa.gov.tr",
+    "https://www.oecd-ilibrary.org"
+  ]
+}
+

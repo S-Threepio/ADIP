@@ -1,0 +1,51 @@
+{
+    "test1": [
+        "https://www.transfermarkt.com",
+        "https://messi.com",
+        "https://www.cnn.com",
+        "https://www.cnn.com",
+        "https://www.redbull.com",
+        "https://www.msn.com",
+        "https://www.biography.com",
+        "https://www.britannica.com",
+        "https://edition.cnn.com",
+        "https://www.cnet.com"
+    ],
+    "test2": [
+        "https://www.transfermarkt.com",
+        "https://messi.com",
+        "https://www.cnn.com",
+        "https://www.cnn.com",
+        "https://www.redbull.com",
+        "https://www.msn.com",
+        "https://www.biography.com",
+        "https://www.britannica.com",
+        "https://en.wikipedia.org",
+        "https://edition.cnn.com"
+    ],
+    "control1": [
+        "https://www.transfermarkt.com",
+        "https://messi.com",
+        "https://www.cnn.com",
+        "https://www.cnn.com",
+        "https://www.redbull.com",
+        "https://www.msn.com",
+        "https://www.biography.com",
+        "https://www.britannica.com",
+        "https://en.wikipedia.org",
+        "https://edition.cnn.com"
+    ],
+    "control2": [
+        "https://www.transfermarkt.com",
+        "https://messi.com",
+        "https://www.cnn.com",
+        "https://www.cnn.com",
+        "https://www.redbull.com",
+        "https://www.msn.com",
+        "https://global.espn.com",
+        "https://www.biography.com",
+        "https://www.britannica.com",
+        "https://edition.cnn.com"
+    ]
+}
+

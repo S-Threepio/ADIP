@@ -1,0 +1,52 @@
+{
+  "test1": [
+    "https://fastercapital.com",
+    "https://utech.co",
+    "https://www.analyticsinsight.net",
+    "https://www.forbes.com",
+    "https://www.techtarget.com",
+    "https://www.educative.io",
+    "https://er.educause.edu",
+    "https://www.ibm.com",
+    "https://utilitiesone.com",
+    "https://www.beaumontenterprise.com"
+  ],
+  "test2": [
+    "https://fastercapital.com",
+    "https://utech.co",
+    "https://www.analyticsinsight.net",
+    "https://www.forbes.com",
+    "https://www.techtarget.com",
+    "https://www.educative.io",
+    "https://er.educause.edu",
+    "https://www.ibm.com",
+    "https://utilitiesone.com",
+    "https://www.beaumontenterprise.com"
+  ],
+  "control1": [
+    "https://fastercapital.com",
+    "https://utech.co",
+    "https://www.analyticsinsight.net",
+    "https://www.forbes.com",
+    "https://www.techtarget.com",
+    "https://www.educative.io",
+    "https://er.educause.edu",
+    "https://utilitiesone.com",
+    "https://www.ibm.com",
+    "https://www.beaumontenterprise.com"
+  ],
+  "control2": [
+    "https://fastercapital.com",
+    "https://utech.co",
+    "https://www.analyticsinsight.net",
+    "https://www.forbes.com",
+    "https://www.techtarget.com",
+    "https://www.educative.io",
+    "https://www.ibm.com",
+    "https://er.educause.edu",
+    "https://utilitiesone.com",
+    "https://www.ibm.com",
+    "https://www.beaumontenterprise.com"
+  ]
+}
+

@@ -1,0 +1,51 @@
+{
+    "test1": [
+        "https://www.technologyreview.com",
+        "https://www.weforum.org",
+        "https://hbr.org",
+        "https://www.repsol.com",
+        "https://www2.deloitte.com",
+        "https://er.educause.edu",
+        "https://www.mckinsey.com",
+        "https://phys.org",
+        "https://www.technologyreview.com",
+        "https://www.bbc.com"
+    ],
+    "test2": [
+        "https://www.technologyreview.com",
+        "https://www.weforum.org",
+        "https://hbr.org",
+        "https://www.repsol.com",
+        "https://www2.deloitte.com",
+        "https://www.forbes.com",
+        "https://www.mckinsey.com",
+        "https://www.technologyreview.com",
+        "https://phys.org",
+        "https://www.nature.com"
+    ],
+    "control1": [
+        "https://www.technologyreview.com",
+        "https://www.weforum.org",
+        "https://hbr.org",
+        "https://www.repsol.com",
+        "https://www2.deloitte.com",
+        "https://er.educause.edu",
+        "https://www.mckinsey.com",
+        "https://phys.org",
+        "https://www.technologyreview.com",
+        "https://www.bbc.com"
+    ],
+    "control2": [
+        "https://www.technologyreview.com",
+        "https://www.weforum.org",
+        "https://hbr.org",
+        "https://www.repsol.com",
+        "https://www2.deloitte.com",
+        "https://www.forbes.com",
+        "https://www.mckinsey.com",
+        "https://www.technologyreview.com",
+        "https://phys.org",
+        "https://www.nature.com"
+    ]
+}
+

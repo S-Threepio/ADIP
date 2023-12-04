@@ -1,0 +1,27 @@
+{
+  "test": [
+    "https://www.forbes.com",
+    "https://www.politifact.com",
+    "https://www.usatoday.com",
+    "https://www.usatoday.com",
+    "https://www.bbc.com",
+    "https://www.bbc.co.uk",
+    "https://www.politifact.com",
+    "https://www.science.org",
+    "https://www.sciencenews.org",
+    "https://www.npr.org"
+  ],
+  "control": [
+    "https://www.forbes.com",
+    "https://www.politifact.com",
+    "https://www.usatoday.com",
+    "https://www.usatoday.com",
+    "https://www.bbc.com",
+    "https://www.politifact.com",
+    "https://www.bbc.co.uk",
+    "https://www.science.org",
+    "https://www.sciencenews.org",
+    "https://www.npr.org"
+  ]
+}
+

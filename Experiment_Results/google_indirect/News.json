@@ -1,0 +1,51 @@
+{
+  "test1": [
+    "https://csglobalpartners.com",
+    "https://www.learnliberty.org",
+    "https://www.brookings.edu",
+    "https://www.mercatus.org",
+    "https://www.oecd.org",
+    "https://www.economist.com",
+    "https://www.oecd.org",
+    "https://www.ncbi.nlm.nih.gov",
+    "https://budgetmodel.wharton.upenn.edu",
+    "https://ir.lib.uwo.ca"
+  ],
+  "test2": [
+    "https://csglobalpartners.com",
+    "https://www.learnliberty.org",
+    "https://www.brookings.edu",
+    "https://www.mercatus.org",
+    "https://www.oecd.org",
+    "https://www.economist.com",
+    "https://www.oecd.org",
+    "https://www.ncbi.nlm.nih.gov",
+    "https://budgetmodel.wharton.upenn.edu",
+    "https://ir.lib.uwo.ca"
+  ],
+  "control1": [
+    "https://csglobalpartners.com",
+    "https://www.learnliberty.org",
+    "https://www.brookings.edu",
+    "https://www.mercatus.org",
+    "https://www.oecd.org",
+    "https://www.economist.com",
+    "https://www.oecd.org",
+    "https://www.ncbi.nlm.nih.gov",
+    "https://budgetmodel.wharton.upenn.edu",
+    "https://ir.lib.uwo.ca"
+  ],
+  "control2": [
+    "https://csglobalpartners.com",
+    "https://www.learnliberty.org",
+    "https://www.brookings.edu",
+    "https://www.mercatus.org",
+    "https://www.oecd.org",
+    "https://www.economist.com",
+    "https://www.oecd.org",
+    "https://www.ncbi.nlm.nih.gov",
+    "https://budgetmodel.wharton.upenn.edu",
+    "https://ir.lib.uwo.ca"
+  ]
+}
+

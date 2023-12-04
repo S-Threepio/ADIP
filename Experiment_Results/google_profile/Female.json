@@ -1,0 +1,27 @@
+{
+  "test": [
+    "http://www.basf.com",
+    "https://www.warmheartworldwide.org",
+    "https://www.independent.org",
+    "https://www.foginfo.org",
+    "https://climate.nasa.gov",
+    "https://www.wwf.org.uk",
+    "https://climate.nasa.gov",
+    "https://www.ncbi.nlm.nih.gov",
+    "https://www.worldwildlife.org",
+    "https://www.bbc.com"
+  ],
+  "control": [
+    "https://climate.nasa.gov",
+    "https://www.wwf.org.uk",
+    "https://climate.nasa.gov",
+    "https://www.ncbi.nlm.nih.gov",
+    "https://www.worldwildlife.org",
+    "https://www.bbc.com",
+    "https://www.pewresearch.org",
+    "https://www.edf.org",
+    "https://www.un.org",
+    "https://www.caryinstitute.org"
+  ]
+}
+

@@ -1,0 +1,51 @@
+{
+    "test1": [
+        "https://www.whitehouse.gov",
+        "https://www.fiscal.treasury.gov",
+        "https://www.cbpp.org",
+        "https://home.treasury.gov",
+        "https://about.bgov.com",
+        "https://www.thebalancemoney.com",
+        "https://www.govinfo.gov",
+        "https://www.washingtonpost.com",
+        "https://www.nationalpriorities.org",
+        "https://budget.house.gov"
+    ],
+    "test2": [
+        "https://www.whitehouse.gov",
+        "https://www.thebalancemoney.com",
+        "https://www.fiscal.treasury.gov",
+        "https://about.bgov.com",
+        "https://www.govinfo.gov",
+        "https://www.brookings.edu",
+        "https://www.cnn.com",
+        "https://www.usaspending.gov",
+        "https://www.usgovernmentspending.com",
+        "https://www.nytimes.com"
+    ],
+    "control1": [
+        "https://www.whitehouse.gov",
+        "https://www.fiscal.treasury.gov",
+        "https://www.cbpp.org",
+        "https://home.treasury.gov",
+        "https://about.bgov.com",
+        "https://www.thebalancemoney.com",
+        "https://www.govinfo.gov",
+        "https://www.washingtonpost.com",
+        "https://www.nationalpriorities.org",
+        "https://budget.house.gov"
+    ],
+    "control2": [
+        "https://www.crfb.org",
+        "https://www.thebalancemoney.com",
+        "https://www.fiscal.treasury.gov",
+        "https://www.whitehouse.gov",
+        "https://about.bgov.com",
+        "https://www.govinfo.gov",
+        "https://www.brookings.edu",
+        "https://budget.house.gov",
+        "https://crsreports.congress.gov",
+        "https://democrats-budget.house.gov"
+    ]
+}
+

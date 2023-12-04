@@ -1,0 +1,51 @@
+{
+    "test1": [
+        "https://www.mayoclinic.org",
+        "https://www.webmd.com",
+        "https://www.medicalnewstoday.com",
+        "https://www.hopkinsmedicine.org",
+        "https://my.clevelandclinic.org",
+        "https://www.verywellhealth.com",
+        "https://www.healthline.com",
+        "https://www.nhs.uk",
+        "https://www.peacehealth.org",
+        "https://www.nytimes.com"
+    ],
+    "test2": [
+        "https://www.mayoclinic.org",
+        "https://www.medicalnewstoday.com",
+        "https://www.webmd.com",
+        "https://my.clevelandclinic.org",
+        "https://www.healthline.com",
+        "https://www.verywellhealth.com",
+        "https://www.nhs.uk",
+        "https://www.healthline.com",
+        "https://www.medicinenet.com",
+        "https://www.translational-medicine.biomedcentral.com"
+    ],
+    "control1": [
+        "https://www.mayoclinic.org",
+        "https://www.webmd.com",
+        "https://www.medicalnewstoday.com",
+        "https://www.hopkinsmedicine.org",
+        "https://my.clevelandclinic.org",
+        "https://www.verywellhealth.com",
+        "https://www.healthline.com",
+        "https://www.nhs.uk",
+        "https://www.medicinenet.com",
+        "https://www.dnaindia.com"
+    ],
+    "control2": [
+        "https://www.mayoclinic.org",
+        "https://www.medicalnewstoday.com",
+        "https://www.webmd.com",
+        "https://www.healthline.com",
+        "https://my.clevelandclinic.org",
+        "https://www.verywellhealth.com",
+        "https://www.nhs.uk",
+        "https://www.healthline.com",
+        "https://www.medicinenet.com",
+        "https://www.translational-medicine.biomedcentral.com"
+    ]
+}
+

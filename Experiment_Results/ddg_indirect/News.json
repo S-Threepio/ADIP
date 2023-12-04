@@ -1,0 +1,51 @@
+{
+    "test1": [
+        "https://www.forbes.com",
+        "https://www.politifact.com",
+        "https://www.usatoday.com",
+        "https://www.usatoday.com",
+        "https://www.bbc.com",
+        "https://www.bbc.co.uk",
+        "https://www.politifact.com",
+        "https://www.science.org",
+        "https://www.npr.org",
+        "https://www.bbc.com"
+    ],
+    "test2": [
+        "https://www.forbes.com",
+        "https://www.politifact.com",
+        "https://www.usatoday.com",
+        "https://www.usatoday.com",
+        "https://www.bbc.com",
+        "https://www.bbc.co.uk",
+        "https://www.politifact.com",
+        "https://www.science.org",
+        "https://www.nationalgeographic.com",
+        "https://www.bbc.com"
+    ],
+    "control1": [
+        "https://www.forbes.com",
+        "https://www.politifact.com",
+        "https://www.usatoday.com",
+        "https://www.usatoday.com",
+        "https://www.bbc.com",
+        "https://www.bbc.co.uk",
+        "https://www.politifact.com",
+        "https://www.science.org",
+        "https://www.npr.org",
+        "https://www.bbc.com"
+    ],
+    "control2": [
+        "https://www.forbes.com",
+        "https://www.politifact.com",
+        "https://www.usatoday.com",
+        "https://www.usatoday.com",
+        "https://www.bbc.com",
+        "https://www.bbc.co.uk",
+        "https://www.politifact.com",
+        "https://www.science.org",
+        "https://www.nationalgeographic.com",
+        "https://www.bbc.com"
+    ]
+}
+

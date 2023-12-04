@@ -1,0 +1,51 @@
+{
+    "test1": [
+        "https://www.mayoclinic.org",
+        "https://www.webmd.com",
+        "https://www.medicalnewstoday.com",
+        "https://www.medicalnewstoday.com",
+        "https://www.hopkinsmedicine.org",
+        "https://my.clevelandclinic.org",
+        "https://www.hopkinsmedicine.org",
+        "https://www.verywellhealth.com",
+        "https://www.healthline.com",
+        "https://www.healthline.com"
+    ],
+    "test2": [
+        "https://www.mayoclinic.org",
+        "https://www.webmd.com",
+        "https://www.medicalnewstoday.com",
+        "https://www.medicalnewstoday.com",
+        "https://www.hopkinsmedicine.org",
+        "https://my.clevelandclinic.org",
+        "https://www.hopkinsmedicine.org",
+        "https://www.verywellhealth.com",
+        "https://www.healthline.com",
+        "https://www.healthline.com"
+    ],
+    "control1": [
+        "https://www.mayoclinic.org",
+        "https://www.webmd.com",
+        "https://www.medicalnewstoday.com",
+        "https://www.medicalnewstoday.com",
+        "https://www.hopkinsmedicine.org",
+        "https://my.clevelandclinic.org",
+        "https://www.hopkinsmedicine.org",
+        "https://www.verywellhealth.com",
+        "https://www.healthline.com",
+        "https://www.healthline.com"
+    ],
+    "control2": [
+        "https://www.mayoclinic.org",
+        "https://www.webmd.com",
+        "https://www.medicalnewstoday.com",
+        "https://www.medicalnewstoday.com",
+        "https://www.hopkinsmedicine.org",
+        "https://my.clevelandclinic.org",
+        "https://www.hopkinsmedicine.org",
+        "https://www.verywellhealth.com",
+        "https://www.healthline.com",
+        "https://www.healthline.com"
+    ]
+}
+

@@ -1,0 +1,51 @@
+{
+  "test1": [
+    "https://www.espn.com",
+    "https://en.wikipedia.org",
+    "https://theforkball.com",
+    "https://www.thejustice.org",
+    "https://www.linkedin.com",
+    "https://www.unicef.org",
+    "https://www.biography.com",
+    "https://www.goal.com",
+    "https://www.marca.com",
+    "https://vocal.media"
+  ],
+  "test2": [
+    "https://www.espn.com",
+    "https://en.wikipedia.org",
+    "https://theforkball.com",
+    "https://www.thejustice.org",
+    "https://www.linkedin.com",
+    "https://www.unicef.org",
+    "https://www.biography.com",
+    "https://www.goal.com",
+    "https://www.marca.com",
+    "https://vocal.media"
+  ],
+  "control1": [
+    "https://www.espn.com",
+    "https://en.wikipedia.org",
+    "https://theforkball.com",
+    "https://www.thejustice.org",
+    "https://www.linkedin.com",
+    "https://www.unicef.org",
+    "https://www.biography.com",
+    "https://www.goal.com",
+    "https://www.marca.com",
+    "https://vocal.media"
+  ],
+  "control2": [
+    "https://www.espn.com",
+    "https://en.wikipedia.org",
+    "https://theforkball.com",
+    "https://www.thejustice.org",
+    "https://www.linkedin.com",
+    "https://www.unicef.org",
+    "https://www.biography.com",
+    "https://www.goal.com",
+    "https://www.marca.com",
+    "https://vocal.media"
+  ]
+}
+

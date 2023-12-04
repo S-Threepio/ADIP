@@ -1,0 +1,51 @@
+{
+  "test1": [
+    "https://www.androidauthority.com",
+    "https://www.theverge.com",
+    "https://www.gizchina.com",
+    "https://www.creativebloq.com",
+    "https://www.quora.com",
+    "https://www.cnet.com",
+    "https://www.forbes.com",
+    "https://amateurphotographer.com",
+    "https://www.cnet.com",
+    "https://www.tomsguide.com"
+  ],
+  "test2": [
+    "https://www.androidauthority.com",
+    "https://www.theverge.com",
+    "https://www.gizchina.com",
+    "https://www.creativebloq.com",
+    "https://www.quora.com",
+    "https://www.cnet.com",
+    "https://www.forbes.com",
+    "https://amateurphotographer.com",
+    "https://www.cnet.com",
+    "https://www.tomsguide.com"
+  ],
+  "control1": [
+    "https://www.gizchina.com",
+    "https://www.theverge.com",
+    "https://www.creativebloq.com",
+    "https://www.quora.com",
+    "https://www.forbes.com",
+    "https://www.cnet.com",
+    "https://www.androidauthority.com",
+    "https://www.cnet.com",
+    "https://amateurphotographer.com",
+    "https://www.tomsguide.com"
+  ],
+  "control2": [
+    "https://www.gizchina.com",
+    "https://www.theverge.com",
+    "https://www.creativebloq.com",
+    "https://www.quora.com",
+    "https://www.forbes.com",
+    "https://www.cnet.com",
+    "https://www.androidauthority.com",
+    "https://www.cnet.com",
+    "https://amateurphotographer.com",
+    "https://www.tomsguide.com"
+  ]
+}
+

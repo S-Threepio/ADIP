@@ -1,0 +1,51 @@
+{
+  "test1": [
+    "https://www.nationalpriorities.org",
+    "https://fiscaldata.treasury.gov",
+    "https://www.cbpp.org",
+    "https://www.cbpp.org",
+    "https://www.whitehouse.gov",
+    "https://www.whitehouse.gov",
+    "https://executivebiz.com",
+    "https://about.bgov.com",
+    "https://about.bgov.com",
+    "https://www.gao.gov"
+  ],
+  "test2": [
+    "https://www.nationalpriorities.org",
+    "https://fiscaldata.treasury.gov",
+    "https://www.cbpp.org",
+    "https://www.cbpp.org",
+    "https://www.whitehouse.gov",
+    "https://www.whitehouse.gov",
+    "https://executivebiz.com",
+    "https://about.bgov.com",
+    "https://about.bgov.com",
+    "https://www.gao.gov"
+  ],
+  "control1": [
+    "https://www.nationalpriorities.org",
+    "https://fiscaldata.treasury.gov",
+    "https://www.cbpp.org",
+    "https://www.whitehouse.gov",
+    "https://www.cbpp.org",
+    "https://www.whitehouse.gov",
+    "https://executivebiz.com",
+    "https://about.bgov.com",
+    "https://about.bgov.com",
+    "https://www.gao.gov"
+  ],
+  "control2": [
+    "https://www.nationalpriorities.org",
+    "https://fiscaldata.treasury.gov",
+    "https://www.cbpp.org",
+    "https://www.whitehouse.gov",
+    "https://www.cbpp.org",
+    "https://www.whitehouse.gov",
+    "https://executivebiz.com",
+    "https://about.bgov.com",
+    "https://about.bgov.com",
+    "https://www.gao.gov"
+  ]
+}
+

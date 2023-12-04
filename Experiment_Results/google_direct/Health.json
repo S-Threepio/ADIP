@@ -1,0 +1,47 @@
+{
+    "test1": [
+    "https://www.betterhealth.vic.gov.au",
+    "https://www.webmd.com",
+    "https://my.clevelandclinic.org",
+    "https://www.mayoclinic.org",
+    "https://www.medicalnewstoday.com",
+    "https://myhealth.alberta.ca",
+    "https://newsinhealth.nih.gov",
+    "https://www.nhs.uk",
+    "https://www.healthline.com",
+    "https://www.mountsinai.org"
+    ],
+    "test2": [
+    "https://www.betterhealth.vic.gov.au",
+    "https://www.webmd.com",
+    "https://my.clevelandclinic.org",
+    "https://www.mayoclinic.org",
+    "https://www.medicalnewstoday.com",
+    "https://myhealth.alberta.ca",
+    "https://newsinhealth.nih.gov",
+    "https://www.nhs.uk",
+    "https://www.healthline.com",
+    "https://www.mountsinai.org"    ],
+    "control1": [
+    "https://www.betterhealth.vic.gov.au",
+    "https://www.webmd.com",
+    "https://my.clevelandclinic.org",
+    "https://www.mayoclinic.org",
+    "https://myhealth.alberta.ca",
+    "https://www.medicalnewstoday.com",
+    "https://www.mountsinai.org",
+    "https://www.nhs.uk",
+    "https://newsinhealth.nih.gov",
+    "https://www.healthline.com"],
+    "control2": [
+    "https://www.betterhealth.vic.gov.au",
+    "https://www.webmd.com",
+    "https://my.clevelandclinic.org",
+    "https://www.mayoclinic.org",
+    "https://myhealth.alberta.ca",
+    "https://www.medicalnewstoday.com",
+    "https://www.mountsinai.org",
+    "https://www.nhs.uk",
+    "https://newsinhealth.nih.gov",
+    "https://www.healthline.com"]
+}

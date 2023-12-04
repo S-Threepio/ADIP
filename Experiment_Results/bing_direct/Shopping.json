@@ -1,0 +1,51 @@
+{
+    "test1": [
+        "https://www.cnet.com",
+        "https://www.androidauthority.com",
+        "https://www.forbes.com",
+        "https://reviewed.usatoday.com",
+        "https://www.theverge.com",
+        "https://www.pcmag.com",
+        "https://www.popsci.com",
+        "https://www.wired.com",
+        "https://www.cnet.com",
+        "https://www.cnet.com"
+    ],
+    "test2": [
+        "https://www.cnet.com",
+        "https://www.androidauthority.com",
+        "https://www.forbes.com",
+        "https://reviewed.usatoday.com",
+        "https://www.theverge.com",
+        "https://www.pcmag.com",
+        "https://www.popsci.com",
+        "https://www.wired.com",
+        "https://www.cnet.com",
+        "https://www.cnet.com"
+    ],
+    "control1": [
+        "https://www.cnet.com",
+        "https://www.androidauthority.com",
+        "https://www.forbes.com",
+        "https://reviewed.usatoday.com",
+        "https://www.theverge.com",
+        "https://www.pcmag.com",
+        "https://www.popsci.com",
+        "https://www.wired.com",
+        "https://www.cnet.com",
+        "https://www.cnet.com"
+    ],
+    "control2": [
+        "https://www.cnet.com",
+        "https://www.androidauthority.com",
+        "https://www.forbes.com",
+        "https://reviewed.usatoday.com",
+        "https://www.theverge.com",
+        "https://www.pcmag.com",
+        "https://www.popsci.com",
+        "https://www.wired.com",
+        "https://www.cnet.com",
+        "https://www.cnet.com"
+    ]
+}
+

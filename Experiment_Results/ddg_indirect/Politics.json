@@ -1,0 +1,51 @@
+{
+    "test1": [
+        "https://fiscaldata.treasury.gov",
+        "https://www.whitehouse.gov",
+        "https://www.whitehouse.gov",
+        "https://www.whitehouse.gov",
+        "https://www.fiscal.treasury.gov",
+        "https://www.whitehouse.gov",
+        "https://www.cbpp.org",
+        "https://about.bgov.com",
+        "https://www.crfb.org",
+        "https://home.treasury.gov"
+    ],
+    "test2": [
+        "https://fiscaldata.treasury.gov",
+        "https://www.crfb.org",
+        "https://www.whitehouse.gov",
+        "https://www.whitehouse.gov",
+        "https://www.whitehouse.gov",
+        "https://www.whitehouse.gov",
+        "https://www.fiscal.treasury.gov",
+        "https://www.whitehouse.gov",
+        "https://www.cbpp.org",
+        "https://home.treasury.gov"
+    ],
+    "control1": [
+        "https://fiscaldata.treasury.gov",
+        "https://www.whitehouse.gov",
+        "https://www.whitehouse.gov",
+        "https://www.whitehouse.gov",
+        "https://www.fiscal.treasury.gov",
+        "https://www.whitehouse.gov",
+        "https://www.cbpp.org",
+        "https://about.bgov.com",
+        "https://www.whitehouse.gov",
+        "https://home.treasury.gov"
+    ],
+    "control2": [
+        "https://fiscaldata.treasury.gov",
+        "https://www.crfb.org",
+        "https://www.whitehouse.gov",
+        "https://www.whitehouse.gov",
+        "https://www.whitehouse.gov",
+        "https://www.whitehouse.gov",
+        "https://www.fiscal.treasury.gov",
+        "https://www.whitehouse.gov",
+        "https://www.cbpp.org",
+        "https://home.treasury.gov"
+    ]
+}
+
